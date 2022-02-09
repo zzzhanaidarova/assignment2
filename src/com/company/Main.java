@@ -14,7 +14,7 @@ public class Main {
             int age = scan.nextInt();
             user.setAge(age);
             if(!(Validator.checkAge(age))){
-                System.out.println("The age is less than 18, so you don't allowed");
+                System.out.println("The age is less than 18, so you don't allowed!!!");
                 break;
             }
             user.setGender(scan.next());
