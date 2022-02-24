@@ -38,6 +38,7 @@ public class Main {
             System.out.println("Gender: " + user.getGender());
             System.out.println("Password: " + user.getPassword());
             System.out.println("Date of birth: " + user.getDateOfBirth());
+            System.out.println("77777777777777");
         }
     }
 }
